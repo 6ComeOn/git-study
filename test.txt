@@ -1,1 +1,2 @@
 这是刚刚开始的 git init
+我在gitHub上直接改代码
